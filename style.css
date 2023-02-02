@@ -34,7 +34,7 @@ header {
 }
 header h1 {
   font-family: 'Archivo', sans-serif;
-  font-size: bold;
+  font-weight: bold;
   font-size: 36px;
   line-height: 42px;
   color: white;
